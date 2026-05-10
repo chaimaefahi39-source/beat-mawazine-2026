@@ -9,7 +9,7 @@ export const Hero = () => {
         alt="Hero background" 
       />
 
-      <div className="absolute inset-0 bg-linear-to-t from-black/80 via-black/20 to-transparent"></div>
+      <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
 
       <div className="relative z-10 flex flex-col justify-end h-full px-10 md:px-20 pb-20">
         <h2 className="text-emerald-400 font-bold mb-2 tracking-widest uppercase text-sm">

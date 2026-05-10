@@ -12,7 +12,7 @@ export const Header =() => {
         <Link to="/" className="text-yellow-500 border-b-2  border-yellow-500 pb-1 cursor-pointer">Home</Link>
         <Link to="/Programme" className="hover:text-yellow-400 cursor-pointer transition-colors">Programme</Link>
         <Link to="/Planning" className="hover:text-yellow-400 cursor-pointer transition-colors">Planning</Link>
-        <Link to="/Passport" className="hover:text-yellow-400 cursor-pointer transition-colors">Passport</Link>
+        <Link to="/Passport" className="hover:text-yellow-400 cursor-pointer transition-colors">Passeport</Link>
     </div>
 
       <div className="flex items-center">

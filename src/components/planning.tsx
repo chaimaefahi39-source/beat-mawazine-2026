@@ -1,18 +1,8 @@
-function Planning () {
+export const pmanning = () => {
+return 
 
-return (
-
-    <>
-    
-
-    </>
-
-
-)
+<div className="text-white p-10 text-center"></div>
 
 
 
-
-}export default Planning
-
-
+}

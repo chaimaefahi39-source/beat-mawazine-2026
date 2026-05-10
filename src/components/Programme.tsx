@@ -16,19 +16,23 @@ export const Programme = ()=> {
                     <div id="Shakira" className="">
                         <img className=" rounded-full align-center" src="src\assets\image-sh.png"></img>
                         <h1 className="text-3xl text-amber-50 ">Shakira</h1>
-                        <p className="text-2xl text-amber-50 ">test</p>
+                       
 
                     </div>
                     <div id="elGrande toto" className="">
                         <img className=" rounded-full align-center" src="\src\assets\image-toto.png"></img>
                         <h1 className="text-3xl text-amber-50 ">ElGrande toto</h1>
-                        <p className="text-2xl text-amber-50 ">test</p>
+                        
 
                     </div>
                     <div id="Manal" className="">
                          <img className=" rounded-full align-center" src="\src\assets\image-manal.png"></img>
                         <h1 className="text-3xl text-amber-50 ">Manal</h1>
-                        <p className="text-2xl text-amber-50 ">test</p>
+                        
+                    </div>
+                    <div id= "Assala" className="">
+                        <img className=" rounded-full align-center" src="/src/assets/imageassala.png"></img>
+                        <h1 className="text-3xl text-amber-50 ">Assala</h1>
 
                     </div>
 

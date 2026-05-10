@@ -1,7 +1,11 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import { Programme } from "./components/Programme"
 import { Header } from "./components/header"
-import { Home } from "./components/Home/Home"
+import { Home } from "./components/pages/Home"
+import {planning} from "./components/planning"
+import {passeport} from "./components/passeport"
+import {artistDetails} from "./components/artistDetails"
+
 
 
 
